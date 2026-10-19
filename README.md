@@ -1,7 +1,7 @@
 # Tu Pausa
 
-Sitio estático con cartas, álbum de fotos, memoria, sudoku y pausa musical.
+Sitio estático completo: 7 cartas, 11 fotos, memoria, sudoku, música y previa de Ángela Torres.
 
-Para publicarlo: Settings → Pages → Deploy from a branch → main → / (root).
+Publicar: Settings → Pages → Deploy from a branch → main → / (root) → Save.
 
-La música usa YouTube y Spotify; requiere internet. Spotify puede pedir sesión o limitar la reproducción a fragmentos.
+La música necesita internet y depende de Spotify y YouTube; Spotify puede limitarse a fragmentos o pedir iniciar sesión.
